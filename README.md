@@ -1,9 +1,9 @@
 🔐 PHP Register/Login System
-
+---
 
 
 A simple and secure PHP Login/Register system using MySQL as the backend database. Built for local development with XAMPP, it demonstrates user registration, secure login with password hashing, and session-based authentication.
----
+
 ⚙️ Tech Stack
 💻 Frontend: HTML5, CSS3
 
