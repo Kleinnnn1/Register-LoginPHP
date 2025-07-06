@@ -61,8 +61,9 @@ pgsql
 Copy
 Edit
 http://localhost/register-login/index.php
----
+
 🧠 Usage Flow
+---
 User registers via index.php
 
 User credentials are stored securely in the users table (with hashed password)
