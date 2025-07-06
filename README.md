@@ -62,18 +62,6 @@ Copy
 Edit
 http://localhost/register-login/index.php
 ---
-📂 File Structure
-bash
-Copy
-Edit
-register-login/
-├── index.php         # Register page
-├── login.php         # Login page
-├── homepage.php      # Dashboard after login
-├── logout.php        # Logout script
-├── database.php      # DB connection
-├── index.css         # Stylesheet
----
 🧠 Usage Flow
 User registers via index.php
 
